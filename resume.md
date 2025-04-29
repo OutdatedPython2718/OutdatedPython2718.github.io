@@ -51,8 +51,8 @@ Bachelor in Science in Computer Science
 
 # Skills
 
-**Topics** - infrastructure as code, cloud computing, application programming interface, adversarial machine learning, artifical intelligence, data science, data visualization, network security, object-oriented programming, software engineering, unit testing
+**Topics** - infrastructure as code, cloud computing, continuous integration and continuous deployment, application programming interface, adversarial machine learning, artifical intelligence, data science, data visualization, network security, object-oriented programming, software engineering, unit testing
 
-**Tools** - Git, AWS, ROS, PostgreSQL, Balsamiq, OpenAPI, Swagger, Tableau, D3
+**Tools** - Git, AWS, SQLAlchemy, Mypy, MkDocs, ROS, Tableau, D3, PostgreSQL, Balsamiq, OpenAPI, Swagger
 
 **Programing Languages** - Python, SQL, JavaScript, Terraform, HTML, CSS, Go, C#, Java, C/C++, Racket
