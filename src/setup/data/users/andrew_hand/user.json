@@ -1,6 +1,102 @@
 {
     "first_name" : "Andrew",
     "last_name" : "Hand",
-    "email" : "ahand.personal@gmail.com",
-    "phone" : "(850) 375-3113"
+    "email" : null,
+    "phone" : null,
+    "educations" : 
+        [
+            {
+                "type" : "degree",
+                "name" : "Worcester Polytechnic Institute",
+                "location" : "Worcester, MA",
+                "year" : 2020,
+                "desc" : "Bachelor in Science in Computer Science"
+            }
+        ],
+    "experiences" :
+        [
+            {
+                "type" : "professional",
+                "name" : "Medical Devive Supply Chain Interactive Data Repository",
+                "employeer" : "MITRE",
+                "start_year" : 2024,
+                "end_year" : null,
+                "bullet_points" : 
+                    [
+                        {"desc" : "Developed API and Backend services via AWS to query like for like polytetrafluoroethylene polymers."},
+                        {"desc" : "Owner and maintainer of the AWS API Gateway, ECR, and Lambda services."},
+                        {"desc" : "Co-maintainer of S3, IAM, and Cogntio services."},
+                        {"desc" : "Converted services to IaC via terraform."}
+                    ]
+            },
+            {
+                "type" : "professional",
+                "name" : "Cryptographic Evaluation and Certification Process Transformation",
+                "employeer" : "MITRE",
+                "start_year" : 2024,
+                "end_year" : null,
+                "bullet_points" : 
+                    [
+                        {"desc" : "Researched and prototyped tools to perform automated SBOM analysis."},
+                        {"desc" : "Developed API and Backend services for a emulated HAIPE router."},
+                        {"desc" : "Implemented SQL and vector databases needed to support a RAG pipeline to compare effectiveness of NLPs predicting security vulnerabilites of HAIPE components."}
+                    ]
+            },
+            {
+                "type" : "professional",
+                "name" : "Digital Organizational Trust",
+                "employeer" : "MITRE",
+                "start_year" : 2022,
+                "end_year" : 2023,
+                "bullet_points" : 
+                    [
+                        {"desc" : "Developed a web-crawler to automate the collection of hierarchical data on accreditation bodies and organizations that obtained, distributed, and audited certificates for trusted digital communications."},
+                        {"desc" : "Analyzed data collected and identified key organizations."},
+                        {"desc" : "Interviewed members of key organizations to better understand their role in trusted digital communications."}
+                    ]
+            },
+            {
+                "type" : "professional",
+                "name" : "Zero Trust Architecture Development",
+                "employeer" : "MITRE",
+                "start_year" : 2022,
+                "end_year" : 2023,
+                "bullet_points" : 
+                    [
+                        {"desc" : "Collected data via web crawler, API, and plugins on Sigma and Suricata rulesets to log events for threat detection."},
+                        {"desc" : "Leveraged MITRE frameworks i.e. ZTA and ATT&CK to create a scoring system that identified the threat levels for detected events."}
+                    ]
+            },
+            {
+                "type" : "professional",
+                "name" : "Dioptra Test Software for Characterization of AI Technologies",
+                "employeer" : "MITRE",
+                "start_year" : 2020,
+                "end_year" : 2024,
+                "bullet_points" : 
+                    [
+                        {"desc" : "Developed experiments to demonstrate the effectiveness of patch attacks and defenses."},
+                        {"desc" : "Prototyped and co-developed web UI for managing users, groups, and experiments."},
+                        {"desc" : "Co-developed API and unit tests."},
+                        {"desc" : "Refactored ORM components and task engine."}
+                    ]
+            },
+            {
+                "type" : "professional",
+                "name" : "Database Manager",
+                "employeer" : "Consumer Research Solutions",
+                "start_year" : 2018,
+                "end_year" : 2020,
+                "bullet_points" : 
+                    [
+                        {"desc" : "Co-managed the collection, quality assurance, and content delivery of one of the largest powersports databases for the United States and Canadian markets."},
+                        {"desc" : "Designed SQL databases, automated web-crawlers, and integrated services into an application that could run remotely."},
+                        {"desc" : "Analyzed and Visualized key data sets that were used in showcases and publications."}
+                    ]
+            }
+        ],
+    "skills" :
+        [
+            {}
+        ]
 }
