@@ -8,8 +8,6 @@
 layout: home
 ---
 
-# This page isn't ready yet
-
 Some awesome changes are still to come! You'll have to wait to find out what they are.
 
 In the meantime check out my About and Resume pages. There's some good info in there.
