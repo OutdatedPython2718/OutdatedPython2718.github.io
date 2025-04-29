@@ -4,15 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
-# Resume
-
-## Education
+# Education
 
 **Worcester Polytechnic Institute** - Worcester, MA 2020
 
 Bachelor in Science in Computer Science
 
-## Experience
+# Experience
 
 **Medical Devive Supply Chain Interactive Data Repository** - MITRE
 
