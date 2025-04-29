@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-# Education
+<!-- # Education
 
 **Worcester Polytechnic Institute** - Worcester, MA 2020
 
@@ -47,4 +47,4 @@ Bachelor in Science in Computer Science
 
 - Co-managed the collection, quality assurance, and content delivery of one of the largest powersports databases for the United States and Canadian markets.
 - Designed SQL databases, automated web-crawlers, and integrated services into an application that could run remotely.
-- Analyzed and Visualized key data sets that were used in showcases and publications.
+- Analyzed and Visualized key data sets that were used in showcases and publications. -->
