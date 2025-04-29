@@ -4,9 +4,8 @@ author:
   email: ahand.personal@gmail.com
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  It's the digital age and I'm just trying to keep up with it. This website serves to
+  keep up with my latest work both at and away from the office. I hope you enjoy!
 
 remote_theme: "jekyll/minima@1e8a445"
 
@@ -51,10 +50,10 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
-  social_links:
-    - title: Minima Theme repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+  # social_links:
+    # - title: Minima Theme repository at GitHub
+    #   icon: github
+    #   url: "https://github.com/jekyll/minima"
+    # - title: Jekyll at X (formerly Twitter)
+    #   icon: x-twitter
+    #   url: "https://x.com/jekyllrb"
