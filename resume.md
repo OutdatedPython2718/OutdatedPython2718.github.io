@@ -48,3 +48,11 @@ Bachelor in Science in Computer Science
 - Co-managed the collection, quality assurance, and content delivery of one of the largest powersports databases for the United States and Canadian markets.
 - Designed SQL databases, automated web-crawlers, and integrated services into an application that could run remotely.
 - Analyzed and Visualized key data sets that were used in showcases and publications.
+
+# Skills
+
+**Topics** - infrastructure as code, cloud computing, application programming interface, adversarial machine learning, artifical intelligence, data science, data visualization, network security, object-oriented programming, software engineering, unit testing
+
+**Tools** - Git, AWS, ROS, PostgreSQL, Balsamiq, OpenAPI, Swagger, Tableau, D3
+
+**Programing Languages** - Python, SQL, JavaScript, Terraform, HTML, CSS, Go, C#, Java, C/C++, Racket
