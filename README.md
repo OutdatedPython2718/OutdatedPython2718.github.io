@@ -6,7 +6,6 @@
 
 Bachelor in Science in Computer Science
 
-
 ## Experience
 
 **Medical Devive Supply Chain Interactive Data Repository** - MITRE
