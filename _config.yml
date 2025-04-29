@@ -1,14 +1,14 @@
-title: Your awesome title
+title: Andrew Hand
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Andrew Hand
+  email: ahand.personal@gmail.com
 
 description: >
   Write an awesome description for your new site here. You can edit this line
   in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
-remote_theme: "jekyll/minima@8106bd4"
+remote_theme: "jekyll/minima@1e8a445"
 
 plugins:
   - jekyll-feed
