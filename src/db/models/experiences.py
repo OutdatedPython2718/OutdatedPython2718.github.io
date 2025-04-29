@@ -13,7 +13,7 @@ from .meta import Base
 
 
 class ExperienceType(enum.Enum):
-    JOB = 'job'
+    PROFESS = 'professional'
     PERSONAL = 'personal'
 
 
