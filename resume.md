@@ -52,7 +52,7 @@ Bachelor in Science in Computer Science
 
 # Skills
 
-**Topics** - infrastructure as code, cloud computing, amazon web services, full stack developer, continuous integration and continuous deployment, application programming interface, adversarial machine learning, artifical intelligence, data science, data visualization, network security, object-oriented programming, software engineering, unit testing, databases, logging, event, detection, web design, object relational mapping, web crawlers
+**Topics** - infrastructure as code, cloud computing, amazon web services, full stack developer, continuous integration and continuous deployment, application programming interface, adversarial machine learning, artifical intelligence, data science, data visualization, network security, object-oriented programming, software engineering, unit testing, databases, logging, event detection, web design, object relational mapping, web crawlers
 
 **Tools** - Git, AWS, SQLAlchemy, Mypy, MkDocs, ROS, Tableau, D3, PostgreSQL, Balsamiq, OpenAPI, Swagger
 
